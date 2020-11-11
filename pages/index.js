@@ -29,7 +29,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="/apps/current.ipa" className={styles.card}>
+          <a href="itms-services://?action=download-manifest&url=https://medas-landingpage.vercel.app/apps/manifest.plist" className={styles.card}>
             <h3>iOS &rarr;</h3>
             <p>Lade KVKDash für dein iPhone oder iPad herunter.</p>
           </a>
@@ -41,7 +41,7 @@ export default function Home() {
         </div>
 
         <p className={styles.footnote}>
-          Derzeit ist KVKDash nur für Telefone und kleinere Bildschirme optimiert.
+          Derzeit ist KVKDash nur kleine Bildschirme optimiert.
         </p>
       </main>
     </div>
