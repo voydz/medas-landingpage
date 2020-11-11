@@ -1,49 +1,33 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import Link from 'next/link'
+import Layout from '../components/layout'
+import styles from '../styles/home.module.css'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
-      <Head>
-        <title>KVKDash</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+    <Layout>
+      <p className={styles.text}>
+        Um die App für iOS herunterladen zu können, folge bitte <Link href="/ios/info"><a>diesen Anweisungen</a></Link>.
+      </p>
 
-      <main className={styles.main}>
-        <div className={styles.logo}>
-          <Image
-            src="/logo/512px.png"
-            alt="KVKDash"
-            width={150}
-            height={150}
-          />
-        </div>
+      <div className={styles.grid}>
+        <a href="itms-services://?action=download-manifest&url=https://medas-landingpage.vercel.app/apps/manifest.plist" className={styles.card}>
+          <h3>iOS &rarr;</h3>
+          <span className={styles.muted}>Wenn dein Endgerät registriert ist, kannst du hier klicken um KVKDash für dein iPhone oder iPad herunterzuladen.</span>
+          <p>Aktuelle Version: 1.0-r2</p>
+          <span>vom 11.11.2020 22:00 Uhr</span>
+        </a>
 
-        <h1 className={styles.title}>
-          KVKDash
-        </h1>
+        <a href="/apps/KVKDash.apk" className={styles.card}>
+          <h3>Android &rarr;</h3>
+          <span className={styles.muted}>Hier klicken um KVKDash für dein Android Telefon oder Tablet herunterzuladen.</span>
+          <p>Aktuelle Version: 1.0-r2</p>
+          <span>vom 11.11.2020 22:00 Uhr</span>
+        </a>
+      </div>
 
-        <p className={styles.description}>
-          Verteilerportal für Android und iOS
-        </p>
-
-        <div className={styles.grid}>
-          <a href="itms-services://?action=download-manifest&url=https://medas-landingpage.vercel.app/apps/manifest.plist" className={styles.card}>
-            <h3>iOS &rarr;</h3>
-            <p>Lade KVKDash für dein iPhone oder iPad herunter.</p>
-          </a>
-
-          <a href="/apps/current.aab" className={styles.card}>
-            <h3>Android &rarr;</h3>
-            <p>Lade KVKDash für dein Android Telefon oder Tablet herunter.</p>
-          </a>
-        </div>
-
-        <p className={styles.footnote}>
-          Derzeit ist KVKDash nur kleine Bildschirme optimiert.
-        </p>
-      </main>
-    </div>
+      <p className={styles.footnote}>
+        Derzeit ist KVKDash nur kleine Bildschirme optimiert.
+      </p>
+    </Layout>
   )
 }
