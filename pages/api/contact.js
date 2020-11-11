@@ -1,6 +1,11 @@
-import {sendRequest} from '../../lib/bin'
+import { sendRequest } from '../../lib/bin'
 
 export default async function handler(req, res) {
-  await sendRequest(req.body);
-  res.redirect('/');
+  try {
+    await sendRequest(req.body);
+    res.json({ success: true });
+  }
+  catch {
+    res.json({ success: false });
+  }
 }
