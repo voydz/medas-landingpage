@@ -41,6 +41,7 @@ export default function Info() {
 
           <div className={styles.control}>
             <input
+              required
               className={styles.input}
               placeholder="Max Mustermann"
               onChange={e => setName(e.target.value)}
@@ -50,6 +51,7 @@ export default function Info() {
 
           <div className={styles.control}>
             <input
+              required
               className={styles.input}
               placeholder="UDID"
               onChange={e => setUDID(e.target.value)}
