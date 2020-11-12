@@ -1,7 +1,7 @@
 import {useState} from 'react';
 import Link from 'next/link'
 import Layout from '../../components/layout'
-import styles from '../../styles/contact.module.css'
+import styles from '../../styles/contact.module.scss'
 
 export default function Info() {
   const [name, setName] = useState('');
