@@ -12,21 +12,21 @@ export default function Home() {
       <div className={styles.grid}>
         <a href="itms-services://?action=download-manifest&url=https://medas-landingpage.vercel.app/apps/manifest.plist" className={styles.card}>
           <h3>iOS &rarr;</h3>
-          <span className={styles.muted}>Wenn dein Endgerät registriert ist, kannst du hier klicken um KVKDash für dein iPhone oder iPad herunterzuladen.</span>
+          <span className={styles.muted}>Wenn dein Endgerät registriert ist, kannst du hier klicken, um KVKDash für dein iPhone oder iPad herunterzuladen.</span>
           <p>Aktuelle Version: 1.0-r2</p>
           <span>vom 11.11.2020 22:00 Uhr</span>
         </a>
 
         <a href="/apps/KVKDash.apk" className={styles.card}>
           <h3>Android &rarr;</h3>
-          <span className={styles.muted}>Hier klicken um KVKDash für dein Android Telefon oder Tablet herunterzuladen.</span>
+          <span className={styles.muted}>Hier klicken, um KVKDash für dein Android Telefon oder Tablet herunterzuladen.</span>
           <p>Aktuelle Version: 1.0-r2</p>
           <span>vom 11.11.2020 22:00 Uhr</span>
         </a>
       </div>
 
       <p className={styles.footnote}>
-        Derzeit ist KVKDash nur kleine Bildschirme optimiert.
+        Derzeit ist KVKDash nur für kleine Bildschirme optimiert.
       </p>
     </Layout>
   )
