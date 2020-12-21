@@ -3,7 +3,7 @@
     {
       "build": 3,
       "version": "1.2",
-      "date": "11.11.2020 14:00 Uhr",
+      "date": "21.12.2020 15:00 Uhr",
       "download": "itms-services://?action=download-manifest&url=https://medas-landingpage.vercel.app/apps/ios/v1.2/manifest.plist"
     }
   ],
@@ -11,7 +11,7 @@
     {
       "build": 3,
       "version": "1.2",
-      "date": "11.11.2020 14:00 Uhr",
+      "date": "21.12.2020 15:00 Uhr",
       "download": "https://medas-landingpage.vercel.app/apps/android/v1.2/KVKDash.apk"
     }
   ]
