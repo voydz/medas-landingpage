@@ -20,23 +20,24 @@
 .input {
   width: 100%;
   padding: 0.8rem;
-  border: 1px solid #eaeaea;
+  color: var(--color-text);
+  background: var(--color-gray6);
+  border: 1px solid var(--color-gray5);
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
 
   &:hover,
   &:focus,
   &:active {
-    color: #8a85ff;
-    border-color: #8a85ff;
+    border-color: var(--color-primary);
   }
 }
 
 .button {
   float: right;
   padding: 0.8rem;
-  color: #ffffff;
-  background: #8a85ff;
+  color: var(--color-text);
+  background: var(--color-primary);
   border: 0;
   border-radius: 10px;
 }

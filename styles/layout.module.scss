@@ -27,7 +27,7 @@
   font-size: 4rem;
 
   & a {
-    color: #8a85ff;
+    color: var(--color-primary);
     text-decoration: none;
 
     &:hover,
