@@ -47,18 +47,125 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-236D28BF-CE4E-41D5-95D3-4511A4C5974C.ipa</string>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-5AEF4BB5-602A-4ED1-94E2-A134BD66E161.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,8</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array>
+						<string>iPhone11,8</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>de.frudat.KVKDash</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-1539B562-C1F4-46D8-895A-6FD690E58B9D.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,6</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,6</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,5</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>de.frudat.KVKDash</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-56A1EA69-ED3A-48CC-BBB7-EDD1DF409FFA.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone7,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>de.frudat.KVKDash</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-7A9490E0-F318-4FEA-B203-DE438921B830.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
 							<string>iPhone7,2</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone6,1</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -71,6 +178,12 @@
 						<dict>
 							<key>device</key>
 							<string>iPhone8,4</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone6,1</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -103,14 +216,370 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-5EF1D75E-D693-419B-BCEF-0C4477C0F84A.ipa</string>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-BCE73F5E-4B3A-49F3-98A8-6FA5CB404EE7.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone11,8</string>
+							<string>iPhone10,1</string>
 							<key>os-version</key>
-							<string>12.2</string>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,8</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,4</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,8</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,3</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,1</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,1</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array>
+						<string>iPhone12,8</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>de.frudat.KVKDash</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-65F2EE5A-A29E-45E4-A1F7-1EAD6995B64E.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,2</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,4</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,2</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,2</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,5</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,6</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,6</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,3</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,4</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array>
+						<string>iPhone11,6</string>
+						<string>iPhone10,2</string>
+						<string>iPhone11,4</string>
+						<string>iPhone10,6</string>
+						<string>iPhone10,5</string>
+						<string>iPhone11,2</string>
+						<string>iPhone9,4</string>
+						<string>iPhone10,3</string>
+						<string>iPhone9,2</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>de.frudat.KVKDash</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-A12C8C25-6A96-412D-89D2-B3F890EA3E72.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPad6,7</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,2</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,2</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,3</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,1</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,12</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,6</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,6</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,11</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,11</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,5</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,7</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,8</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,5</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,4</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,12</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,11</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,8</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,7</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,11</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,12</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,6</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,12</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array>
+						<string>iPad11,7</string>
+						<string>iPad11,6</string>
+						<string>iPad7,12</string>
+						<string>iPad7,11</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>de.frudat.KVKDash</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-4E2E5934-7CE0-4025-8D92-E136908F71E5.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,4</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPod9,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,1</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPod9,1</string>
+							<key>os-version</key>
+							<string>14.0</string>
 						</dict>
 					</array>
 					<key>variantIds</key>
@@ -122,60 +591,124 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-D40FD938-D5E0-482F-9ABC-0401670F103D.ipa</string>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-47D81E6A-54BB-4B91-BFBD-6F30069E89FF.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPad4,9</string>
+							<string>iPad8,5</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad4,1</string>
+							<string>iPad6,3</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,2</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,4</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,4</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,2</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,3</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,1</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,6</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,4</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,7</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,3</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,8</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,1</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array>
+						<string>iPad8,1</string>
+						<string>iPad8,6</string>
+						<string>iPad7,4</string>
+						<string>iPad8,3</string>
+						<string>iPad7,1</string>
+						<string>iPad8,8</string>
+						<string>iPad6,4</string>
+						<string>iPad8,5</string>
+						<string>iPad7,3</string>
+						<string>iPad8,2</string>
+						<string>iPad8,7</string>
+						<string>iPad6,3</string>
+						<string>iPad8,4</string>
+						<string>iPad7,2</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>de.frudat.KVKDash</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-0D015471-7661-48B3-9CC5-1194427A4423.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
 						<dict>
 							<key>device</key>
 							<string>iPad6,7</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,3</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,7</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,8</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,4</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,5</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,8</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -187,7 +720,31 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad4,4</string>
+							<string>iPad4,8</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,5</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,3</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,7</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,8</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -199,13 +756,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad7,5</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,6</string>
+							<string>iPad5,2</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -223,19 +774,49 @@
 						</dict>
 						<dict>
 							<key>device</key>
+							<string>iPad4,3</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,1</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,4</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
 							<string>iPad6,12</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad5,2</string>
+							<string>iPad7,5</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad5,3</string>
+							<string>iPad7,6</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,9</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,4</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -269,110 +850,294 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-9B6270FD-7446-4D59-9E4C-350E4ADBEE12.ipa</string>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-5A0E501D-E680-4DD7-B44C-D06DEBFBB31B.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPad6,3</string>
+							<string>iPad13,2</string>
 							<key>os-version</key>
-							<string>12.0</string>
+							<string>14.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad7,4</string>
+							<string>iPad11,3</string>
 							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,8</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,1</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,3</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,4</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,1</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,2</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,6</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,5</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,2</string>
-							<key>os-version</key>
-							<string>12.0</string>
+							<string>13.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPad6,4</string>
 							<key>os-version</key>
-							<string>12.0</string>
+							<string>14.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad8,3</string>
+							<string>iPad11,2</string>
 							<key>os-version</key>
-							<string>12.0</string>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,1</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,6</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,3</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,11</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,5</string>
+							<key>os-version</key>
+							<string>14.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPad8,7</string>
 							<key>os-version</key>
-							<string>12.0</string>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,2</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,5</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,11</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,6</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,3</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,2</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,12</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,2</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,4</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,9</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,10</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,7</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,4</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,10</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,2</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,3</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,8</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad13,1</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,9</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,12</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,1</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,4</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,3</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,1</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,8</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,2</string>
+							<key>os-version</key>
+							<string>14.0</string>
 						</dict>
 					</array>
 					<key>variantIds</key>
 					<array>
-						<string>iPad8,1</string>
-						<string>iPad8,6</string>
-						<string>iPad7,4</string>
-						<string>iPad8,3</string>
-						<string>iPad7,1</string>
-						<string>iPad8,8</string>
-						<string>iPad6,4</string>
-						<string>iPad8,5</string>
-						<string>iPad7,3</string>
-						<string>iPad8,2</string>
-						<string>iPad8,7</string>
-						<string>iPad6,3</string>
-						<string>iPad8,4</string>
-						<string>iPad7,2</string>
+						<string>iPad13,2</string>
+						<string>iPad8,11</string>
+						<string>iPad13,1</string>
+						<string>iPad8,10</string>
+						<string>iPad8,12</string>
+						<string>iPad8,9</string>
 					</array>
 				</dict>
 				<dict>
@@ -381,7 +1146,214 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-F4A1F3D6-FF1B-432E-80E7-66E239C3E966.ipa</string>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-93F01BB8-C143-400F-8CA4-60CC859A0CAB.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPad8,5</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,7</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,8</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,6</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array>
+						<string>iPad11,3</string>
+						<string>iPad11,2</string>
+						<string>iPad11,1</string>
+						<string>iPad11,4</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>de.frudat.KVKDash</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-6B670A3C-BA8C-4110-8F98-8B0C1B25D514.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,2</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,2</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>de.frudat.KVKDash</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-D8BD977B-931A-466F-88D7-AE53ED531E8B.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,8</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>de.frudat.KVKDash</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-8B32C737-B12D-4A2F-B369-198D361FB9D5.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>de.frudat.KVKDash</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-6B6D3339-07B4-486F-9129-EDB5A48E585D.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -409,392 +1381,174 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-04FF8822-2D60-4C28-8F92-D1FD1A955346.ipa</string>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-12FD79FE-B45F-4C9E-AB49-A560DF188896.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPad8,9</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,12</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,2</string>
+							<string>iPhone12,3</string>
 							<key>os-version</key>
 							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,4</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,5</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,11</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,5</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,3</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,1</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,9</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,3</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,4</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,8</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,2</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,4</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,7</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,6</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,10</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,3</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,1</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,11</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,2</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,6</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,8</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,10</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad13,1</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,1</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,4</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,7</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,12</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,3</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad13,2</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array>
-						<string>iPad13,2</string>
-						<string>iPad8,11</string>
-						<string>iPad13,1</string>
-						<string>iPad8,10</string>
-						<string>iPad8,12</string>
-						<string>iPad8,9</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>de.frudat.KVKDash</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-02E90AA9-C081-4555-87D7-20A0E9496BE5.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,8</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone11,8</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>de.frudat.KVKDash</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-672CB22E-37E3-41E9-B660-D2C06F93B96A.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,2</string>
-							<key>os-version</key>
-							<string>12.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPhone11,6</string>
 							<key>os-version</key>
-							<string>12.0</string>
+							<string>14.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,2</string>
+							<string>iPhone11,6</string>
 							<key>os-version</key>
-							<string>12.0</string>
+							<string>13.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,5</string>
+							<string>iPhone13,1</string>
 							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,3</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,4</string>
-							<key>os-version</key>
-							<string>12.0</string>
+							<string>14.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPhone11,2</string>
 							<key>os-version</key>
-							<string>12.0</string>
+							<string>14.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone11,4</string>
+							<string>iPhone9,4</string>
 							<key>os-version</key>
-							<string>12.0</string>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone13,4</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,3</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,2</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone13,2</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone13,3</string>
+							<key>os-version</key>
+							<string>14.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPhone10,6</string>
 							<key>os-version</key>
-							<string>12.0</string>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,6</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,4</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,5</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,2</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,5</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,5</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,2</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,2</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,5</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,2</string>
+							<key>os-version</key>
+							<string>14.0</string>
 						</dict>
 					</array>
 					<key>variantIds</key>
 					<array>
-						<string>iPhone11,6</string>
-						<string>iPhone10,2</string>
-						<string>iPhone11,4</string>
-						<string>iPhone10,6</string>
-						<string>iPhone10,5</string>
-						<string>iPhone11,2</string>
-						<string>iPhone9,4</string>
-						<string>iPhone10,3</string>
-						<string>iPhone9,2</string>
+						<string>iPhone13,2</string>
+						<string>iPhone13,3</string>
+						<string>iPhone12,5</string>
+						<string>iPhone12,3</string>
+						<string>iPhone13,4</string>
+						<string>iPhone13,1</string>
 					</array>
 				</dict>
 				<dict>
@@ -803,493 +1557,18 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-36F0868D-29BF-45EC-9B6D-33A2AEAFCA2A.ipa</string>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-1B3D8419-5A94-4EC9-B21B-CED63210A251.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
-						<dict>
-							<key>device</key>
-							<string>iPad5,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,9</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,8</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,6</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,7</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,5</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,11</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,12</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,8</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,5</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,6</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,7</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>de.frudat.KVKDash</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-15C04487-EE62-4FA8-8C44-55C5BF44A448.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,1</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPod9,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPod9,1</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,4</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>de.frudat.KVKDash</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-2EB86562-E66F-4D94-8E22-B23F996BEEE5.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,1</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,8</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,4</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,1</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,3</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,8</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone12,8</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>de.frudat.KVKDash</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-DA87EBBF-1F4B-4FB0-AA87-BD5CB53A0A00.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,2</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>de.frudat.KVKDash</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-D3D44FC3-8AE8-45D3-BEFF-118C58C164F9.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone7,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>de.frudat.KVKDash</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-4D60096C-45F1-4F12-B2CA-675DED058C1D.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPad5,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,11</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,12</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,7</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,6</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,5</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,6</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,7</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,8</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,11</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,6</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,8</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,4</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,12</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,12</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,3</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,12</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,1</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,2</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,11</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,11</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,5</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,7</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array>
-						<string>iPad11,7</string>
-						<string>iPad11,6</string>
-						<string>iPad7,12</string>
-						<string>iPad7,11</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>de.frudat.KVKDash</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-3E18647A-B6EB-4F2B-A274-3EC466CAEDD7.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPhone11,8</string>
+							<key>os-version</key>
+							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,1</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -1303,7 +1582,7 @@
 							<key>device</key>
 							<string>iPhone11,8</string>
 							<key>os-version</key>
-							<string>14.0</string>
+							<string>13.0</string>
 						</dict>
 					</array>
 					<key>variantIds</key>
@@ -1317,124 +1596,55 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-F08EDD8C-BDC1-46EA-A7A1-8021160E2CA5.ipa</string>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-3B4E7ACC-2247-424C-989E-FA3595A6AE9F.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPad8,5</string>
+							<string>iPhone6,1</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad8,8</string>
+							<string>iPhone8,4</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad11,3</string>
+							<string>iPhone7,2</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad8,1</string>
+							<string>iPod7,1</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad7,3</string>
+							<string>iPhone8,1</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad8,4</string>
+							<string>iPhone6,2</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad8,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,7</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,6</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,1</string>
+							<string>iPod9,1</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 					</array>
 					<key>variantIds</key>
 					<array>
-						<string>iPad11,3</string>
-						<string>iPad11,2</string>
-						<string>iPad11,1</string>
-						<string>iPad11,4</string>
+						<string>iPod9,1</string>
 					</array>
 				</dict>
 				<dict>
@@ -1443,15 +1653,9 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-3D7A0C68-341D-49FE-A94A-B6FAE52476AF.ipa</string>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-BEAFEB95-DD72-45A4-ADF9-199C5DFCB521.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,3</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPhone9,1</string>
@@ -1461,6 +1665,12 @@
 						<dict>
 							<key>device</key>
 							<string>iPhone10,1</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,3</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -1485,336 +1695,126 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-28D00AA9-527E-4C31-B511-DD3BAC3300A8.ipa</string>
+					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-EF2C397B-19E6-424A-AB0D-933030ED540E.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone9,2</string>
+							<string>iPad6,7</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone11,4</string>
+							<string>iPad4,3</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,2</string>
+							<string>iPad6,8</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,5</string>
+							<string>iPad5,2</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,6</string>
+							<string>iPad7,6</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,3</string>
+							<string>iPad4,6</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone11,6</string>
+							<string>iPad5,1</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone11,2</string>
+							<string>iPad4,8</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone9,4</string>
+							<string>iPad4,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,9</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,7</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,11</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,12</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,5</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,5</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,4</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 					</array>
 					<key>variantIds</key>
 					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>de.frudat.KVKDash</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-2C187E18-C294-4FBD-A062-1D04868F462F.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPod9,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone7,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPod7,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone6,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone6,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array>
-						<string>iPod9,1</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>de.frudat.KVKDash</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-3930D0C7-83C7-4FBD-A339-69779554B9BB.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>de.frudat.KVKDash</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://medas-landingpage.vercel.app/apps/ios/v1.3/KVKDash-1D8FC96E-5C5E-4135-A381-BCAED86001F1.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,4</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,5</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,3</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,4</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,2</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,6</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone13,2</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,5</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,5</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,3</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,6</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone13,3</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone13,4</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,2</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone13,1</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,6</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,5</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,2</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,6</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone13,2</string>
-						<string>iPhone13,3</string>
-						<string>iPhone12,5</string>
-						<string>iPhone12,3</string>
-						<string>iPhone13,4</string>
-						<string>iPhone13,1</string>
-					</array>
 				</dict>
 			</array>
 		</dict>
