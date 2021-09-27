@@ -35,6 +35,10 @@ export default function Home() {
         </a>
       </div>
 
+      <p>
+        Du möchtest eine <Link href="/versions"><a>ältere Version</a></Link> herunterladen?
+      </p>
+
       <p className={styles.footnote}>
         Derzeit ist KVKDash nur für kleine Bildschirme optimiert.
       </p>
