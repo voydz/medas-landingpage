@@ -1,9 +1,9 @@
 {
   "ios": [
     {
-      "build": 24,
+      "build": 26,
       "version": "1.5",
-      "date": "27.09.2021 18:00 Uhr",
+      "date": "28.09.2021 11:00 Uhr",
       "download": "itms-services://?action=download-manifest&url=https://medas-landingpage.vercel.app/apps/ios/v1.5/manifest.plist"
     },
     {
@@ -15,9 +15,9 @@
   ],
   "android": [
     {
-      "build": 34,
+      "build": 38,
       "version": "1.5",
-      "date": "27.09.2021 18:00 Uhr",
+      "date": "28.09.2021 11:00 Uhr",
       "download": "https://medas-landingpage.vercel.app/apps/android/v1.5/KVKDash.apk"
     },
     {
