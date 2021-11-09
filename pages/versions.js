@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import {useDevice} from '../lib/device'
 import Layout from '../components/layout'
 import styles from '../styles/versions.module.scss'
 import versions from '../versions.json'
@@ -7,24 +8,31 @@ import versions from '../versions.json'
 const {ios, android} = versions;
 
 export default function Versions() {
+  const {isIOS} = useDevice()
+
   return (
     <Layout>
       <h1>Alle Versionen</h1>
 
       <p>
         Hier findest du alle im Verteilerportal verfügbaren
-        Versionen von KVKDash. Solltest du mit einer aktuellen
-        Version Probleme haben, dann kannst du mit einer älteren
-        Version weiterarbeiten, bis das Problem behoben wurde.
-        Vorher solltest du allerdings KVKDash von deinem
-        Telefon deinstallieren.
+        Versionen von KVKDash für deine Platform. Solltest du mit
+        einer aktuellen Version Probleme haben, dann kannst du mit
+        einer älteren Version weiterarbeiten, bis das Problem behoben wurde.
+        Vorher solltest du allerdings KVKDash von deinem Telefon deinstallieren.
       </p>
 
-      <h3>iOS</h3>
-      <VersionTable versions={ios} />
+      <p>
+        Es wird nur die Platform angezeigt, für die ein Download im aktuellen Browser möglich ist.
+        Bitte besuche diese Seite auf dem Gerät, auf dem du die App installieren möchtest und lade sie
+        von dort aus herunter.
+      </p>
 
-      <h3>Android</h3>
-      <VersionTable versions={android} />
+      {isIOS ? (
+        <VersionTable title="für iOS" versions={ios} />
+      ) : (
+        <VersionTable title="für Android" versions={android} />
+      )}
 
       <p>
         <Link href="/"><a>&larr; Startseite</a></Link>
@@ -33,16 +41,18 @@ export default function Versions() {
   )
 }
 
-function VersionTable({versions}) {
+function VersionTable({title, versions}) {
   return (
     <table className={styles.table}>
       <thead>
-        <th>Datum</th>
-        <th>Version</th>
-        <th>&nbsp;</th>
+        <tr>
+          <th>Datum</th>
+          <th>Version</th>
+          <th>{title}</th>
+        </tr>
       </thead>
       <tbody>
-        {versions.map(version => <VersionRow {...version} />)}
+        {versions.map((version, i) => <VersionRow key={i} {...version} />)}
       </tbody>
     </table>
   )

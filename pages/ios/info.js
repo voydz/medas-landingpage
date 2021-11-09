@@ -4,14 +4,11 @@ import Layout from '../../components/layout'
 export default function Info() {
   return (
     <Layout>
-      <h1>Spezielle Anforderungen</h1>
+      <h3>Was ist notwendig um die App unter iOS zu nutzen?</h3>
 
       <p>
         Bevor du die KVKDash App für iOS herunterladen kannst,
         muss dein Endgerät beim Entwickler der App registriert werden.
-      </p>
-
-      <p>
         Um dies durchzuführen, kannst du über <Link href="/ios/contact"><a>dieses Formular</a></Link>
         &nbsp;deine <a href="http://whatsmyudid.com" target="_blank">Gerätekennung für Entwickler (UDID)</a>
         &nbsp;und deinen Namen mitteilen.
