@@ -1,6 +1,12 @@
 {
   "ios": [
     {
+      "build": 27,
+      "version": "1.6",
+      "date": "10.11.2021 12:00 Uhr",
+      "download": "itms-services://?action=download-manifest&url=https://kvkdash.vercel.app/apps/ios/v1.6/manifest.plist"
+    },
+    {
       "build": 26,
       "version": "1.5",
       "date": "28.09.2021 11:00 Uhr",
@@ -14,6 +20,12 @@
     }
   ],
   "android": [
+    {
+      "build": 40,
+      "version": "1.6",
+      "date": "10.11.2021 12:00 Uhr",
+      "download": "https://kvkdash.vercel.app/apps/android/v1.6/KVKDash.apk"
+    },
     {
       "build": 38,
       "version": "1.5",
