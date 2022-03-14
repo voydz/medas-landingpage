@@ -1,9 +1,9 @@
 {
   "ios": [
     {
-      "build": 33,
+      "build": 38,
       "version": "1.6",
-      "date": "01.12.2021 01:00 Uhr",
+      "date": "14.03.2022 22:30 Uhr",
       "download": "itms-services://?action=download-manifest&url=https://kvkdash.vercel.app/apps/ios/v1.6/manifest.plist"
     }
   ],
