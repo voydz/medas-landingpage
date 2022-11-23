@@ -1,17 +1,17 @@
 {
   "ios": [
     {
-      "build": 43,
+      "build": 44,
       "version": "1.7",
-      "date": "23.11.2022 19:00 Uhr",
+      "date": "23.11.2022 21:00 Uhr",
       "download": "itms-services://?action=download-manifest&url=https://kvkdash.vercel.app/apps/ios/v1.7/manifest.plist"
     }
   ],
   "android": [
     {
-      "build": 42,
+      "build": 43,
       "version": "1.7",
-      "date": "23.11.2022 19:00 Uhr",
+      "date": "23.11.2022 21:00 Uhr",
       "download": "https://kvkdash.vercel.app/apps/android/v1.7/KVKDash.apk"
     },
     {
