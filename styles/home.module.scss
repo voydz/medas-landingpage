@@ -4,7 +4,7 @@
   justify-content: center;
   flex-wrap: wrap;
   width: 800px;
-  margin-top: 3rem;
+  margin: 3rem 0;
 }
 
 @media (max-width: 800px) {
@@ -49,14 +49,11 @@
   }
 }
 
-.footnote, .text {
-  text-align: center;
+.block {
+  width: 800px;
+  text-align: left;
 }
 
-.footnote, .muted {
+.muted {
   color: var(--color-gray);
-}
-
-.footnote {
-  margin-top: 3rem;
 }

@@ -13,8 +13,18 @@ export default function Home() {
 
   return (
     <Layout>
-      <p className={styles.text}>
-        Um die App für iOS herunterladen zu können, folge bitte <Link href="/ios/info"><a>diesen Anweisungen</a></Link>.
+      <p>
+        Diese App ist eine Art Adressbuch für klinische Ansprechpartner und weiterer Kontaktdaten die ein KVK für ihre Tätigkeit nutzt.
+        Über eine Suche können Ansprechpartner nach Indikation und Fachgebiet schnell gefunden werden. Einzelne Datensätze können auf Inhalte geprüft werden. Über die Webverlinkung kann die Homepage der Fachabteilung geöffnet werden. Es ist möglich über die Datensätze Telefonnummern anzuwählen, die Route zur Adresse über einen Routenplaner zu öffnen oder eine Mail an einen Ansprechpartner zu senden.
+        Die Teilen Funktion ermöglicht Teile von selektierten Datensätze an den Fragesteller per Mailapp, WhatsApp etc. zu versenden.
+        Insbesondere wenn man nicht ständig im Homeoffice ist, unterstützt und erleichtert die App dabei, Anfragen schnell und unkompliziert beantworten zu können.
+      </p>
+      <p>
+        Die Daten werden ausschließlich über eine separate Excel-Tabelle importiert, die von einem zuständigen Bearbeiter des KVK zur Verfügung gestellt werden muss. Sie dient "nicht" dazu Adresssätze in der App zu erstellen oder zu bearbeiten.
+      </p>
+      <p>
+        Die Daten werden "nicht" über eine Cloud oder sonstige externe Internetverbindungen gehostet. Müssen Datensätze aktualisiert werden, kann dies ausschließlich über einen neuen Import der Exceltabelle geschehen.
+        Die App benötigt eine "bestimmte" Excel Datentabelle mit einem bestimmten Schema, die zunächst angefordert werden muss. Nutze dazu in der App im Bereich Einstellungen die Kontaktanfrage. Sie wird "NUR" KVK Mitarbeitern zur Verfügung gestellt.
       </p>
 
       <div className={styles.grid}>
@@ -44,13 +54,6 @@ export default function Home() {
         Es wird nur die Platform angezeigt, für die ein Download im aktuellen Browser möglich ist.
         Bitte besuche diese Seite auf dem Gerät, auf dem du die App installieren möchtest und lade sie
         von dort aus herunter.
-      </p>
-      <p>
-        Du möchtest eine <Link href="/versions"><a>ältere Version</a></Link> herunterladen?
-      </p>
-
-      <p className={styles.footnote}>
-        Derzeit ist KVKDash nur für kleine Bildschirme optimiert.
       </p>
     </Layout>
   )

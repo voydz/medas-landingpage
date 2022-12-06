@@ -1,36 +1,18 @@
 {
   "ios": [
     {
-      "build": 46,
-      "version": "1.7",
-      "date": "25.11.2022 16:00 Uhr",
-      "download": "itms-services://?action=download-manifest&url=https://kvkdash.vercel.app/apps/ios/v1.7/manifest.plist"
+      "build": 100,
+      "version": "1.8",
+      "date": "06.12.2022 0:00 Uhr",
+      "download": "https://apps.apple.com/de/app/kvkdash/id6444763879"
     }
   ],
   "android": [
     {
-      "build": 44,
-      "version": "1.7",
-      "date": "25.11.2022 16:00 Uhr",
-      "download": "https://kvkdash.vercel.app/apps/android/v1.7/KVKDash.apk"
-    },
-    {
-      "build": 40,
-      "version": "1.6",
-      "date": "10.11.2021 12:00 Uhr",
-      "download": "https://kvkdash.vercel.app/apps/android/v1.6/KVKDash.apk"
-    },
-    {
-      "build": 38,
-      "version": "1.5",
-      "date": "28.09.2021 11:00 Uhr",
-      "download": "https://medas-landingpage.vercel.app/apps/android/v1.5/KVKDash.apk"
-    },
-    {
-      "build": 18,
-      "version": "1.4",
-      "date": "20.03.2021 22:00 Uhr",
-      "download": "https://medas-landingpage.vercel.app/apps/android/v1.4/KVKDash.apk"
+      "build": 100,
+      "version": "1.8",
+      "date": "06.12.2022 0:00 Uhr",
+      "download": "https://play.google.com/store/apps/details?id=com.kvkdash"
     }
   ]
 }
