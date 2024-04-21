@@ -10,8 +10,8 @@ export default function Home() {
         <h2 id="m46">Diensteanbieter</h2>
         <p>
           Felix Rudat<br />
-          Beuditzstraße 87D<br />
-          06667 Weißenfels<br />
+          Victor-Klemperer-Straße 2<br />
+          06118 Halle (Saale)<br />
           Deutschland
         </p>
 

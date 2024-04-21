@@ -12,15 +12,15 @@ export default function Layout({ children }) {
       </Head>
 
       <main className={styles.main}>
-        <Link href="/">
-          <a className={styles.logo}>
-            <Image
-              src="/logo/512px.png"
-              alt="KVKDash"
-              width={150}
-              height={150}
-            />
-          </a>
+        <Link href="/" className={styles.logo}>
+
+          <Image
+            src="/logo/512px.png"
+            alt="KVKDash"
+            width={150}
+            height={150}
+          />
+
         </Link>
 
         <h1 className={styles.title}>
@@ -28,16 +28,16 @@ export default function Layout({ children }) {
         </h1>
 
         <p className={styles.footer}>
-          <Link href="/"><a>Startseite</a></Link>&nbsp;&middot;&nbsp;
-          <Link href="mailto:Dash@kvk-halle.de"><a>Kontakt</a></Link>&nbsp;&middot;&nbsp;
-          <Link href="/security"><a>Datenschutz</a></Link>&nbsp;&middot;&nbsp;
-          <Link href="/imprint"><a>Impressum</a></Link>
+          <Link href="/">Startseite</Link>&nbsp;&middot;&nbsp;
+          <Link href="mailto:Dash@kvk-halle.de">Kontakt</Link>&nbsp;&middot;&nbsp;
+          <Link href="/security">Datenschutz</Link>&nbsp;&middot;&nbsp;
+          <Link href="/imprint">Impressum</Link>
         </p>
 
         {children}
 
         <p className={styles.footer}>
-          <Link href="#top"><a>&uarr; Nach oben &uarr;</a></Link>
+          <Link href="#top">&uarr; Nach oben &uarr;</Link>
         </p>
       </main>
     </div>

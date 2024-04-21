@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import {useDevice} from '../lib/device'
 import Layout from '../components/layout'
 import styles from '../styles/home.module.scss'
 import versions from '../versions.json'
@@ -9,8 +8,6 @@ const ios = versions.ios[0];
 const android = versions.android[0];
 
 export default function Home() {
-  const {isIOS} = useDevice()
-
   return (
     <Layout>
       <p>
@@ -28,33 +25,15 @@ export default function Home() {
       </p>
 
       <div className={styles.grid}>
-        {isIOS ? (
-          <a href={ios.download} className={styles.card}>
-            <h3>iOS &rarr;</h3>
-            <span className={styles.muted}>Wenn dein Endgerät registriert ist, kannst du hier klicken, um KVKDash für dein iPhone oder iPad herunterzuladen.</span>
-            <p>
-              Aktuelle Version: {ios.version}
-              &nbsp;<span>(Build {ios.build})</span>
-            </p>
-            <span>vom {ios.date}</span>
-          </a>
-        ) : (
-          <a href={android.download} className={styles.card}>
-            <h3>Android &rarr;</h3>
-            <span className={styles.muted}>Hier klicken, um KVKDash für dein Android Telefon oder Tablet herunterzuladen.</span>
-            <p>Aktuelle Version: {android.version}
-              &nbsp;<span>(Build {android.build})</span>
-            </p>
-            <span>vom {android.date}</span>
-          </a>
-        )}
+        <a href={ios.download} className={styles.card}>
+          <h3>iOS &rarr;</h3>
+          <span className={styles.muted}>Hier gehts zum Download im Apple AppStore.</span>
+        </a>
+        <a href={android.download} className={styles.card}>
+          <h3>Android &rarr;</h3>
+          <span className={styles.muted}>Hier gehts zum Download im Google PlayStore.</span>
+        </a>
       </div>
-
-      <p>
-        Es wird nur die Platform angezeigt, für die ein Download im aktuellen Browser möglich ist.
-        Bitte besuche diese Seite auf dem Gerät, auf dem du die App installieren möchtest und lade sie
-        von dort aus herunter.
-      </p>
     </Layout>
   )
 }
