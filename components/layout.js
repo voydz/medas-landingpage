@@ -9,6 +9,14 @@ export default function Layout({ children }) {
       <Head>
         <title>KVKDash</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="robots" content="index,follow" />
+        {/* <meta name="viewport" content="width=device-width, initial-scale=1" /> */}
+
+        <meta name="author" content="Felix Rudat" />
+        <meta name="language" content="DE" />
+
+        <meta name="description" content="Diese App fungiert als Adressbuch für klinische Ansprechpartner, ermöglicht die Suche und das Teilen von Kontaktdaten, und die Datenaktualisierung erfolgt ausschließlich durch den Import einer spezifischen Excel-Tabelle, ohne Cloud- oder Internetverbindung." />
+        <meta name="keywords" content="KVK, Adressbuch, klinische Ansprechpartner, Suche, Teilen von Kontaktdaten, Datenaktualisierung, Excel-Tabelle, Offline, KVKDash" />
       </Head>
 
       <main className={styles.main}>

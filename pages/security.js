@@ -35,8 +35,8 @@ export default function Home() {
         <h2 id="m3">Verantwortlicher</h2>
         <p>
           Felix Rudat<br />
-          Beuditzstraße 87D<br />
-          06667 Weißenfels<br />
+          Victor-Klemperer-Straße 2<br />
+          06118 Halle (Saale)<br />
           <a href="mailto:felix.rudat@hotmail.de">felix.rudat@hotmail.de</a>
         </p>
 
